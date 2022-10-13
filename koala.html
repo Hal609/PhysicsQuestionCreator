@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- META -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="#">
+    <meta name="description" content="#">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="robots" content="index, follow">
+    <!-- SPEED -->
+    <link rel="preconnect" href="https://res.cloudinary.com">
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <!-- LINK -->
+    <link rel="me" href="#">
+    <link rel="canonical" href="#">
+    <link rel="icon" type="image/png" href="#" sizes="48x48">
+    <!-- PERFORMANCE -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+    <link rel="preload" as="style" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <!-- TITLE -->
+    <title>Question Generator</title>
+</head>
+
+<body>
+    <div style="position: relative;" class="ui-section-banner" id="Header">
+        <div class="ui-layout-container">
+            <h1>Question Generator</h1>
+        </div>
+    </div>
+    <h1 style="text-align: center; padding-top: 10px;">A = B * C</h1>
+    <section class="ui-section-feature">
+        <div class="ui-layout-container">
+            <div style="height: 14px;
+            vertical-align: top;" class="ui-section-feature__layout ui-layout-grid ui-layout-grid-3">
+                <div class="ui-component-card ui-component-card--feature">
+                    <h5>A</h5>
+                    <p1>
+                        <label for="AName">Name:</label>
+                        <input type="text" id="AName"><br>
+                        <label for="AUnit">Unit:</label>
+                        <input type="text" id="AUnit"><br>
+                        <label for="ALowLim">Low Lim: </label>
+                        <input type="number" id="ALowLim"><br>
+                        <label for="AHighLim">High Lim:</label>
+                        <input type="number" id="AHighLim"><br><br>
+                    </p1>
+                </div>
+                <div class="ui-component-card ui-component-card--feature">
+                    <h5>B</h5>
+                    <p1>
+                        <label for="BName">Name:</label>
+                        <input type="text" id="BName"><br>
+                        <label for="BUnit">Unit:</label>
+                        <input type="text" id="BUnit"><br>
+                        <label for="BLowLim">Low Lim: </label>
+                        <input type="number" id="BLowLim"> <br>
+                        <label for="BHighLim">High Lim:</label>
+                        <input type="number" id="BHighLim"> <br><br>
+                    </p1>
+                </div>
+                <div class="ui-component-card ui-component-card--feature">
+                    <h5>C</h5>
+                    <p1>
+                        <label for="CName">Name:</label>
+                        <input type="text" id="CName"><br>
+                        <label for="CUnit">Unit:</label>
+                        <input type="text" id="CUnit"><br>
+                        <label for="CLowLim">Low Lim: </label>
+                        <input type="number" id="CLowLim"> <br>
+                        <label for="CHighLim">High Lim:</label>
+                        <input type="number" id="CHighLim"> <br><br>
+                    </p1>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <script src="jquery.js"></script>
+    <script src="script.js"></script>
+
+    <div style="text-align: center; padding-top: 30px;">
+        <textarea name="Output" id="Output" cols="70" rows="21" readonly=true>...</textarea>
+        <button type="button" onclick="myFunction()">Start</button>
+    </div>
+</body>

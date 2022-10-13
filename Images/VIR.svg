@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163.7mm" height="88.34mm" version="1.1" viewBox="0 0 163.7 88.34" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-3.077 -5.107)">
+  <g fill="none">
+   <path d="m3.077 16.52h47.11" stroke="#444" stroke-width=".6"/>
+   <path d="m3.077 40.86h47.11" stroke="#444" stroke-width=".6"/>
+   <g stroke="#c5eff6">
+    <circle cx="21.78" cy="30.04" r="2.024" stroke-width=".6"/>
+    <path d="m20.84 30.03h1.945" stroke-width=".6"/>
+    <circle cx="35.15" cy="22.9" r="2.024" stroke-width=".6"/>
+    <path d="m34.22 22.88h1.945" stroke-width=".6"/>
+    <circle cx="35.75" cy="35.12" r="2.024" stroke-width=".6"/>
+    <path d="m34.82 35.1h1.945" stroke-width=".6"/>
+    <circle cx="48.98" cy="24.04" r="2.024" stroke-width=".6"/>
+    <path d="m48.05 24.03h1.945" stroke-width=".6"/>
+    <circle cx="64.21" cy="31" r="2.024" stroke-width=".6"/>
+    <path d="m63.27 30.98h1.945" stroke-width=".6"/>
+    <circle cx="77.85" cy="26.73" r="2.024" stroke-width=".6"/>
+    <path d="m76.91 26.72h1.945" stroke-width=".6"/>
+    <circle cx="9.56" cy="23.35" r="2.024" stroke-width=".6"/>
+    <path d="m8.625 23.33h1.945" stroke-width=".6"/>
+    <circle cx="11.39" cy="34.33" r="2.024" stroke-width=".6"/>
+    <path d="m10.46 34.32h1.945" stroke-width=".6"/>
+    <circle cx="89.82" cy="29.77" r="2.024" stroke-width=".6"/>
+    <path d="m88.89 29.75h1.945" stroke-width=".6"/>
+    <circle cx="104.2" cy="27.77" r="2.024" stroke-width=".6"/>
+    <path d="m103.3 27.76h1.945" stroke-width=".6"/>
+    <circle cx="49.58" cy="34.2" r="2.024" stroke-width=".6"/>
+    <path d="m48.64 34.18h1.945" stroke-width=".6"/>
+    <circle cx="127" cy="23.03" r="2.024" stroke-width=".6"/>
+    <path d="m126 23.01h1.945" stroke-width=".6"/>
+    <circle cx="115.8" cy="28.98" r="2.024" stroke-width=".6"/>
+    <path d="m114.8 28.96h1.945" stroke-width=".6"/>
+    <circle cx="123.3" cy="35.86" r="2.024" stroke-width=".6"/>
+    <path d="m122.3 35.85h1.945" stroke-width=".6"/>
+    <circle cx="136.8" cy="32.35" r="2.024" stroke-width=".6"/>
+    <path d="m135.9 32.33h1.945" stroke-width=".6"/>
+    <circle cx="143" cy="21.47" r="2.024" stroke-width=".6"/>
+    <path d="m142.1 21.45h1.945" stroke-width=".6"/>
+    <circle cx="156.2" cy="24.12" r="2.024" stroke-width=".6"/>
+    <path d="m155.3 24.1h1.945" stroke-width=".6"/>
+    <circle cx="151.7" cy="35.68" r="2.024" stroke-width=".6"/>
+    <path d="m150.8 35.66h1.945" stroke-width=".6"/>
+   </g>
+   <g stroke="#444" stroke-width=".6">
+    <path d="m61.25 23.16h47.11"/>
+    <path d="m61.25 34.23h47.11"/>
+    <path d="m119.5 16.52h47.11"/>
+    <path d="m119.5 40.86h47.11"/>
+    <path d="m49.78 16.52c0.1351-0.0069 0.2706-7e-3 0.4057-3.8e-4 1.088 0.0531 2.115 0.5415 2.995 1.183s1.634 1.437 2.412 2.198c0.7932 0.7765 1.621 1.527 2.559 2.122s1.993 1.031 3.099 1.13c0.2954 0.0265 0.5929 0.02891 0.8886 0.0072"/>
+    <path d="m49.69 40.86c0.1654 0.0079 0.3313 0.0074 0.4967-0.0017 1.13-0.06199 2.21-0.5216 3.153-1.148 0.9429-0.6264 1.764-1.417 2.571-2.211 0.7611-0.7485 1.52-1.508 2.394-2.121 0.8744-0.6123 1.881-1.075 2.946-1.155 0.2239-0.01666 0.449-0.01629 0.6728 0.0011"/>
+    <path d="m107.8 23.16c0.1827 8e-3 0.3658 0.0069 0.5484-0.0034 1.196-0.06734 2.345-0.528 3.357-1.169 1.012-0.6412 1.898-1.459 2.75-2.301 0.7226-0.7142 1.429-1.453 2.251-2.05 0.822-0.5973 1.779-1.052 2.793-1.113 0.1582-0.0095 0.317-0.0095 0.4752 2.16e-4"/>
+    <path d="m107.9 34.23c0.1398-0.0079 0.2801-0.0078 0.4199 2.78e-4 1.161 0.0673 2.227 0.6829 3.109 1.441s1.623 1.665 2.462 2.469c1.526 1.463 3.469 2.608 5.58 2.724 0.2354 0.01288 0.4716 0.01293 0.707 1.79e-4"/>
+    <path d="m16.19 12.46h22.02"/>
+    <path d="m38.29 12.66-1.943-1.943"/>
+    <path d="m38.29 12.23-1.943 1.943"/>
+    <path d="m80.73 19.04h6.979"/>
+    <path d="m87.79 19.23-1.943-1.943"/>
+    <path d="m87.79 18.81-1.943 1.943"/>
+    <path d="m130.5 12.46h22.02"/>
+    <path d="m152.6 12.66-1.943-1.943"/>
+    <path d="m152.6 12.23-1.943 1.943"/>
+   </g>
+  </g>
+  <g fill="#000000" font-family="sans-serif" font-size="10.58px" stroke-width=".2646">
+   <text x="10.874375" y="8.7312498" style="line-height:1.25" xml:space="preserve"><tspan x="10.874375" y="8.7312498" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Low Resistance</tspan></text>
+   <text x="124.61868" y="8.7780037" style="line-height:1.25" xml:space="preserve"><tspan x="124.61868" y="8.7780037" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Low Resistance</tspan></text>
+   <text x="67.606712" y="15.209664" style="line-height:1.25" xml:space="preserve"><tspan x="67.606712" y="15.209664" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">High Resistance</tspan></text>
+   <text x="4.2909927" y="48.305534" style="line-height:1.25" xml:space="preserve"><tspan x="4.2909927" y="48.305534" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Lots of electrons flow</tspan></text>
+  </g>
+  <g stroke-width=".2646">
+   <text transform="translate(9.541 -1.123)" x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:49.1319;line-height:1.25;white-space:pre" xml:space="preserve"><tspan x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px"><tspan stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">so high Current (</tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">I</tspan><tspan stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">)</tspan></tspan></text>
+   <text x="117.663" y="48.368111" fill="#000000" font-family="sans-serif" font-size="10.58px" style="line-height:1.25" xml:space="preserve"><tspan x="117.663" y="48.368111" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Lots of electrons flow</tspan></text>
+   <text transform="translate(123.4 -.9477)" x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:49.1319;line-height:1.25;white-space:pre" xml:space="preserve"><tspan x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px"><tspan stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">so high Current (</tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">I</tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">)</tspan></tspan></text>
+   <text x="63.022968" y="42.418694" fill="#000000" font-family="sans-serif" font-size="10.58px" style="line-height:1.25" xml:space="preserve"><tspan x="63.022968" y="42.418694" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Less electrons flow</tspan></text>
+   <text transform="translate(66.03 -7.234)" x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:49.1319;line-height:1.25;white-space:pre" xml:space="preserve"><tspan x="-2.9678576" y="55.302647" fill="#444444" font-family="'Open Sans'" font-size="4.939px"><tspan stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">so lower Current (</tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">I</tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">)</tspan></tspan></text>
+  </g>
+  <g fill="none" stroke="#444" stroke-width=".6">
+   <path d="m62.13 91.55v-68.39" stroke-dasharray="2.4, 2.4" stroke-dashoffset="3.6" stroke-opacity=".498"/>
+   <path d="m108.4 91.66v-68.5" stroke-dasharray="2.4, 2.4" stroke-dashoffset="3.6" stroke-opacity=".498"/>
+   <g>
+    <path d="m14.34 65.96v25.56h141.5"/>
+    <path d="m14.23 72.87h47.87l46.27 14.45h46.91"/>
+    <path d="m12.61 67.77 1.943-1.943"/>
+    <path d="m14.14 65.83 1.943 1.943"/>
+    <path d="m156 91.71-1.943-1.943"/>
+    <path d="m156 91.29-1.943 1.943"/>
+   </g>
+  </g>
+  <g fill="#000000" font-family="sans-serif" font-size="10.58px" stroke-width=".2646">
+   <text x="5.0388784" y="67.672127" style="line-height:1.25" xml:space="preserve"><tspan x="5.0388784" y="67.672127" fill="#444444" font-family="'Open Sans'" font-size="4.939px" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">PD</tspan></text>
+   <text x="6.6306353" y="74.342247" style="line-height:1.25" xml:space="preserve"><tspan x="6.6306353" y="74.342247" fill="#444444" font-family="'Open Sans'" font-size="4.939px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9V</tspan></text>
+   <text x="110.72677" y="85.286934" style="line-height:1.25" xml:space="preserve"><tspan x="110.72677" y="85.286934" fill="#444444" font-family="'Open Sans'" font-size="4.939px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">3V</tspan></text>
+   <text x="53.668655" y="71.719391" style="line-height:1.25" xml:space="preserve"><tspan x="53.668655" y="71.719391" fill="#444444" font-family="'Open Sans'" font-size="4.939px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9V</tspan></text>
+  </g>
+ </g>
+</svg>
